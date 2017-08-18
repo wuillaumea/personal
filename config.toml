@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://wuillaumea.github.io/personal/" #without ending slash
+baseurl = "https://wuillaumea.github.io/personal" #without ending slash
 languageCode = "en-us"
 title = "Alex"
 theme = "hugo-identity-theme"
