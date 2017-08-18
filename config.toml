@@ -48,9 +48,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     position = "Software Engineer Intern"
     livesIn = "[Ann Arbor, Michigan](https://www.google.com/maps/@42.2740543,-83.7333756,12.25z)"
     scope = [
-        "Email me to receive resume."
+        "Student at Michigan State University.",
+        "Graduating with a Bachelors in Computer Science in May, 2018.",
+        "wuillaumea@gmail.com to receive resume."
       ]
-    biography = """Student at Michigan State University. \n\nGraduating with a Bachelors in Computer Science in May, 2018."""
+    biography = """"""
 
   # Contact form settings
 
