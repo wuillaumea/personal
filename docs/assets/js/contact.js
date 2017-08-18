@@ -34,3 +34,8 @@ function onSubmit(token) {
   }
   $('form[id=contactForm]').submit();
 }
+
+function jscopy(){
+  "wuillaumea@gmail.com".select();
+  var successful = document.execCommand('copy');
+}

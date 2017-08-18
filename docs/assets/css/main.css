@@ -112,7 +112,8 @@ h5, li {
   font-size: 0.85em; }
 
 h6, .biography {
-  font-size: .8em; }
+  font-size: .8em;
+  letter-spacing: .1em}
 
 @media screen and (max-width: 480px) {
   h1 {
@@ -428,8 +429,8 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    border-color: #ff7496;
-    color: #ff7496 !important; }
+    border-color: #379100;
+    color: #379100 !important; }
   input[type="submit"].icon,
   input[type="reset"].icon,
   input[type="button"].icon,
@@ -528,6 +529,10 @@ button,
   #main .biography {
     display: block;
     margin-bottom: 1.5em; }
+  #main .fa-clipboard{
+    padding:0.5em;
+    outline:0;
+  }
   @media screen and (max-width: 480px) {
     #main {
       min-width: 0;
