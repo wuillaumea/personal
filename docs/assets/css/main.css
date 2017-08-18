@@ -45,9 +45,9 @@ body {
 
 /* Type */
 body, input, select, textarea {
-  color: #414f57;
+  color: black;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 14pt;
+  font-size: 15pt;
   font-weight: 300;
   line-height: 2;
   letter-spacing: 0.2em; }
@@ -112,7 +112,7 @@ h5, li {
   font-size: 0.85em; }
 
 h6, .biography {
-  font-size: 0.7em; }
+  font-size: .8em; }
 
 @media screen and (max-width: 480px) {
   h1 {
@@ -362,7 +362,7 @@ ul {
           color: #ffffff;
           text-shadow: 1.25px 0px 0px #c8cccf, -1.25px 0px 0px #c8cccf, 0px 1.25px 0px #c8cccf, 0px -1.25px 0px #c8cccf; }
         ul.icons li a:hover:before {
-          text-shadow: 1.25px 0px 0px #ff7496, -1.25px 0px 0px #ff7496, 0px 1.25px 0px #ff7496, 0px -1.25px 0px #ff7496; }
+          text-shadow: 1.25px 0px 0px #379100, -1.25px 0px 0px #379100, 0px 1.25px 0px #379100, 0px -1.25px 0px #379100; }
         ul.icons li a:before {
           position: absolute;
           top: 0;
@@ -374,7 +374,7 @@ ul {
           text-align: center;
           text-indent: 0; }
         ul.icons li a:hover {
-          border-color: #ff7496; }
+          border-color: #379100; }
     @media screen and (max-width: 480px) {
       ul.icons li a:before {
         font-size: 1.5rem; } }
